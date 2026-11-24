@@ -7,7 +7,7 @@ EdgeDNA reads every trade, recognizes the setup behind it, grades only the execu
 
 > Concept build. Not official MyFundedPerps software. Not financial advice, and no profit is promised.
 
-**Live demo:** `https://<your-github-username>.github.io/edgedna/` (simulated data, works in any browser)
+**Live demo:** `https://chairon999.github.io/edgedna/` (simulated data, works in any browser)
 
 ![EdgeDNA main screen](assets/main.png)
 
