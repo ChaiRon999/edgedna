@@ -28,6 +28,14 @@ EdgeDNA reads every trade, recognizes the setup behind it, grades only the execu
 ![Your DNA tab](assets/your-dna.png)
 ![Opening a case](assets/case.png)
 
+## Why I built this
+
+I spent years as a designer and QA engineer at General Motors. After a large round of layoffs, I made the jump into trading, and I'm still learning.
+
+What I found is that the hard part isn't the strategy, it's me: the chased entry, the trade right after a loss, the stop I moved. Journals tell me what went wrong after the fact. I wanted something that works like a fair supervisor and a coach at once: it notices when I trade well and rewards it, so good behavior becomes a habit instead of a lucky day.
+
+EdgeDNA is built with a designer's eye and a QA mindset: every trade is checked the same way, every time.
+
 ## Why it matters
 
 **For traders.** Most evaluations are not lost on strategy but on execution: chasing, revenge entries, ignored stops, overtrading. A journal shows what happened. EdgeDNA changes what happens next, by naming the trader's edge and leak in plain words and turning the leak into the next mission.
