@@ -1,0 +1,11 @@
+{
+  "name": "edgedna-server",
+  "version": "0.1.0",
+  "private": true,
+  "description": "EdgeDNA server: grades MyFundedPerps trades (read-only). Runs in demo mode without an API key.",
+  "main": "src/index.js",
+  "scripts": { "start": "node src/index.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.16.0" },
+  "license": "MIT"
+}
